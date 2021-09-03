@@ -1,0 +1,11 @@
+version = 1
+
+exclude_patterns = ["webpack.mix.js"]
+
+[[analyzers]]
+name = "php"
+enabled = true
+
+[[analyzers]]
+name = "javascript"
+enabled = true
